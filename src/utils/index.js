@@ -8,7 +8,7 @@ const getDates = strDate => {
 
         const date = dayjs(strDate)
 
-        const aMonthAgo = now.subtract(30, 'day')
+        const aMonthAgo = now.subtract(7, 'day')
 
         return {
             now,
