@@ -7,7 +7,7 @@ const app = require('../src')
 describe('Testing Format', () => {
 
     const locale = 'pt'
-    let date = '2020-08-24T13:14'
+    let date = '2020-08-11T20:39:19.448Z'
 
     it('Formating', done => {
 
