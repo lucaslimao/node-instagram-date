@@ -24,8 +24,10 @@
   },
   "homepage": "https://github.com/lucaslimao/node-instagram-date#readme",
   "dependencies": {
-    "chai": "^4.2.0",
-    "dayjs": "^1.8.34",
-    "mocha": "^8.1.1"
+    "dayjs": "1.8.34"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "8.1.1"
   }
 }
