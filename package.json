@@ -1,6 +1,6 @@
 {
   "name": "node-instagram-date",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Returns the date as the date of the instagram posts.",
   "main": "src/index.js",
   "scripts": {
