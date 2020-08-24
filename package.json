@@ -1,0 +1,26 @@
+{
+  "name": "node-instagram-date",
+  "version": "0.0.1",
+  "description": "Returns the date as the date of the instagram posts.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslimao/node-instagram-date.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "instagram",
+    "date",
+    "dates"
+  ],
+  "author": "Lucas Limão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaslimao/node-instagram-date/issues"
+  },
+  "homepage": "https://github.com/lucaslimao/node-instagram-date#readme"
+}
