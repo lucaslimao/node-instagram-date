@@ -9,9 +9,9 @@ const format = strDate => {
             throw new Error('Date is empty. ')
         }
         
-        const { now, date, aMonthAgo } = getDates(strDate)
+        const { now, date, aWeekAgo } = getDates(strDate)
 
-        const str = date.isBefore(aMonthAgo) ? now.format('LL') : now.to(date)
+        const str = date.isBefore(aWeekAgo) ? date.format('LL') : now.to(date)
 
         return str
 
